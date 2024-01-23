@@ -1,0 +1,61 @@
+2024-01-23T14:59:01.647Z - [31merror[39m: uncaughtException: Cannot find module '../permissions'
+Require stack:
+- /Users/ccdev14/Projects/Test/Oauth/src/controllers/AuthController.js
+- /Users/ccdev14/Projects/Test/Oauth/src/routes/auth.js
+- /Users/ccdev14/Projects/Test/Oauth/src/routes/index.js
+- /Users/ccdev14/Projects/Test/Oauth/src/app.js
+Error: Cannot find module '../permissions'
+Require stack:
+- /Users/ccdev14/Projects/Test/Oauth/src/controllers/AuthController.js
+- /Users/ccdev14/Projects/Test/Oauth/src/routes/auth.js
+- /Users/ccdev14/Projects/Test/Oauth/src/routes/index.js
+- /Users/ccdev14/Projects/Test/Oauth/src/app.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/ccdev14/Projects/Test/Oauth/src/controllers/AuthController.js:8:21)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+2024-01-23T14:59:25.379Z - [31merror[39m: uncaughtException: Cannot find module '../permissions'
+Require stack:
+- /Users/ccdev14/Projects/Test/Oauth/src/controllers/AuthController.js
+- /Users/ccdev14/Projects/Test/Oauth/src/routes/auth.js
+- /Users/ccdev14/Projects/Test/Oauth/src/routes/index.js
+- /Users/ccdev14/Projects/Test/Oauth/src/app.js
+Error: Cannot find module '../permissions'
+Require stack:
+- /Users/ccdev14/Projects/Test/Oauth/src/controllers/AuthController.js
+- /Users/ccdev14/Projects/Test/Oauth/src/routes/auth.js
+- /Users/ccdev14/Projects/Test/Oauth/src/routes/index.js
+- /Users/ccdev14/Projects/Test/Oauth/src/app.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/ccdev14/Projects/Test/Oauth/src/controllers/AuthController.js:8:21)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+2024-01-23T14:59:56.243Z - [32minfo[39m: Connected to MongoDB
+2024-01-23T15:00:08.885Z - [32minfo[39m: Connected to MongoDB
+2024-01-23T15:01:28.371Z - [32minfo[39m: Connected to MongoDB
+2024-01-23T15:02:01.714Z - [32minfo[39m: Connected to MongoDB
+2024-01-23T15:09:04.534Z - [32minfo[39m: Connected to MongoDB
+2024-01-23T15:57:30.291Z - [32minfo[39m: Connected to MongoDB
+2024-01-23T15:58:31.175Z - [32minfo[39m: Connected to MongoDB
+2024-01-23T15:58:39.690Z - [32minfo[39m: Connected to MongoDB
+2024-01-23T16:00:14.365Z - [32minfo[39m: Connected to MongoDB
+2024-01-23T16:00:38.668Z - [32minfo[39m: Connected to MongoDB
+2024-01-23T16:01:05.118Z - [32minfo[39m: Connected to MongoDB
+2024-01-23T16:01:13.320Z - [32minfo[39m: Connected to MongoDB
+2024-01-23T16:01:31.618Z - [32minfo[39m: Connected to MongoDB
+2024-01-23T16:01:48.917Z - [32minfo[39m: Connected to MongoDB
+2024-01-23T16:03:01.501Z - [32minfo[39m: Connected to MongoDB
+2024-01-23T16:03:35.022Z - [32minfo[39m: Connected to MongoDB
+2024-01-23T16:20:13.975Z - [32minfo[39m: Connected to MongoDB

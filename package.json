@@ -2,9 +2,10 @@
   "name": "oauth",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "./src/app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon ./scr/app.js"
   },
   "repository": {
     "type": "git",
@@ -16,5 +17,21 @@
   "bugs": {
     "url": "https://github.com/salvarsa/gama-oauth/issues"
   },
-  "homepage": "https://github.com/salvarsa/gama-oauth#readme"
+  "homepage": "https://github.com/salvarsa/gama-oauth#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "crypto-js": "^4.2.0",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "express-group-routes": "^1.1.0",
+    "graphql-shield": "^7.6.5",
+    "http": "^0.0.1-security",
+    "jwt-decode": "^4.0.0",
+    "moment": "^2.30.1",
+    "mongoose": "^8.1.0",
+    "path": "^0.12.7",
+    "uuid": "^9.0.1",
+    "winston": "^3.11.0"
+  }
 }

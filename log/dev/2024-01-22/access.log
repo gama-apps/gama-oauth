@@ -1,0 +1,1676 @@
+2024-01-22T17:18:21.746Z - [31merror[39m: uncaughtException: Cannot find module './routers/index'
+Require stack:
+- /Users/ccdev14/Projects/Test/Oauth/src/app.js
+Error: Cannot find module './routers/index'
+Require stack:
+- /Users/ccdev14/Projects/Test/Oauth/src/app.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/ccdev14/Projects/Test/Oauth/src/app.js:10:16)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+2024-01-22T17:18:49.301Z - [31merror[39m: uncaughtException: Cannot find module './routers/index'
+Require stack:
+- /Users/ccdev14/Projects/Test/Oauth/src/app.js
+Error: Cannot find module './routers/index'
+Require stack:
+- /Users/ccdev14/Projects/Test/Oauth/src/app.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/ccdev14/Projects/Test/Oauth/src/app.js:10:16)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+2024-01-22T17:19:27.596Z - [31merror[39m: uncaughtException: Cannot find module './routers/index'
+Require stack:
+- /Users/ccdev14/Projects/Test/Oauth/src/app.js
+Error: Cannot find module './routers/index'
+Require stack:
+- /Users/ccdev14/Projects/Test/Oauth/src/app.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/ccdev14/Projects/Test/Oauth/src/app.js:10:16)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+2024-01-22T17:19:33.061Z - [31merror[39m: uncaughtException: Cannot find module './routers/index'
+Require stack:
+- /Users/ccdev14/Projects/Test/Oauth/src/app.js
+Error: Cannot find module './routers/index'
+Require stack:
+- /Users/ccdev14/Projects/Test/Oauth/src/app.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/ccdev14/Projects/Test/Oauth/src/app.js:10:16)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+2024-01-22T17:19:41.282Z - [31merror[39m: uncaughtException: Cannot find module './routers/index'
+Require stack:
+- /Users/ccdev14/Projects/Test/Oauth/src/app.js
+Error: Cannot find module './routers/index'
+Require stack:
+- /Users/ccdev14/Projects/Test/Oauth/src/app.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/ccdev14/Projects/Test/Oauth/src/app.js:10:16)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+2024-01-22T17:20:01.775Z - [31merror[39m: uncaughtException: Cannot find module './routers/index'
+Require stack:
+- /Users/ccdev14/Projects/Test/Oauth/src/app.js
+Error: Cannot find module './routers/index'
+Require stack:
+- /Users/ccdev14/Projects/Test/Oauth/src/app.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/ccdev14/Projects/Test/Oauth/src/app.js:10:16)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+2024-01-22T17:20:15.039Z - [31merror[39m: uncaughtException: Cannot find module './routers/index'
+Require stack:
+- /Users/ccdev14/Projects/Test/Oauth/src/app.js
+Error: Cannot find module './routers/index'
+Require stack:
+- /Users/ccdev14/Projects/Test/Oauth/src/app.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/ccdev14/Projects/Test/Oauth/src/app.js:10:16)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+2024-01-22T17:20:23.625Z - [31merror[39m: uncaughtException: Cannot find module './routers/index'
+Require stack:
+- /Users/ccdev14/Projects/Test/Oauth/src/app.js
+Error: Cannot find module './routers/index'
+Require stack:
+- /Users/ccdev14/Projects/Test/Oauth/src/app.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/ccdev14/Projects/Test/Oauth/src/app.js:10:16)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+2024-01-22T17:20:34.321Z - [31merror[39m: uncaughtException: Cannot find module './routers/index'
+Require stack:
+- /Users/ccdev14/Projects/Test/Oauth/src/app.js
+Error: Cannot find module './routers/index'
+Require stack:
+- /Users/ccdev14/Projects/Test/Oauth/src/app.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/ccdev14/Projects/Test/Oauth/src/app.js:10:16)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+2024-01-22T17:20:53.245Z - [31merror[39m: uncaughtException: Cannot find module './routers/index'
+Require stack:
+- /Users/ccdev14/Projects/Test/Oauth/src/app.js
+Error: Cannot find module './routers/index'
+Require stack:
+- /Users/ccdev14/Projects/Test/Oauth/src/app.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/ccdev14/Projects/Test/Oauth/src/app.js:10:16)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+2024-01-22T17:20:56.561Z - [31merror[39m: uncaughtException: Cannot find module './routers/index'
+Require stack:
+- /Users/ccdev14/Projects/Test/Oauth/src/app.js
+Error: Cannot find module './routers/index'
+Require stack:
+- /Users/ccdev14/Projects/Test/Oauth/src/app.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/ccdev14/Projects/Test/Oauth/src/app.js:10:16)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+2024-01-22T17:21:00.492Z - [31merror[39m: uncaughtException: Cannot find module './routers/index'
+Require stack:
+- /Users/ccdev14/Projects/Test/Oauth/src/app.js
+Error: Cannot find module './routers/index'
+Require stack:
+- /Users/ccdev14/Projects/Test/Oauth/src/app.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/ccdev14/Projects/Test/Oauth/src/app.js:10:16)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+2024-01-22T17:21:16.030Z - [31merror[39m: uncaughtException: Cannot find module './routers/index'
+Require stack:
+- /Users/ccdev14/Projects/Test/Oauth/src/app.js
+Error: Cannot find module './routers/index'
+Require stack:
+- /Users/ccdev14/Projects/Test/Oauth/src/app.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/ccdev14/Projects/Test/Oauth/src/app.js:10:16)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+2024-01-22T17:21:21.381Z - [31merror[39m: uncaughtException: Cannot find module './routers/index'
+Require stack:
+- /Users/ccdev14/Projects/Test/Oauth/src/app.js
+Error: Cannot find module './routers/index'
+Require stack:
+- /Users/ccdev14/Projects/Test/Oauth/src/app.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/ccdev14/Projects/Test/Oauth/src/app.js:10:16)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+2024-01-22T17:21:24.514Z - [31merror[39m: uncaughtException: Cannot find module './routers/index'
+Require stack:
+- /Users/ccdev14/Projects/Test/Oauth/src/app.js
+Error: Cannot find module './routers/index'
+Require stack:
+- /Users/ccdev14/Projects/Test/Oauth/src/app.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/ccdev14/Projects/Test/Oauth/src/app.js:10:16)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+2024-01-22T17:21:28.586Z - [31merror[39m: uncaughtException: Cannot find module './routers/index'
+Require stack:
+- /Users/ccdev14/Projects/Test/Oauth/src/app.js
+Error: Cannot find module './routers/index'
+Require stack:
+- /Users/ccdev14/Projects/Test/Oauth/src/app.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/ccdev14/Projects/Test/Oauth/src/app.js:10:16)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+2024-01-22T17:21:42.693Z - [31merror[39m: uncaughtException: Cannot find module './routers/index'
+Require stack:
+- /Users/ccdev14/Projects/Test/Oauth/src/app.js
+Error: Cannot find module './routers/index'
+Require stack:
+- /Users/ccdev14/Projects/Test/Oauth/src/app.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/ccdev14/Projects/Test/Oauth/src/app.js:10:16)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+2024-01-22T17:21:47.786Z - [31merror[39m: uncaughtException: Cannot find module './routers/index'
+Require stack:
+- /Users/ccdev14/Projects/Test/Oauth/src/app.js
+Error: Cannot find module './routers/index'
+Require stack:
+- /Users/ccdev14/Projects/Test/Oauth/src/app.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/ccdev14/Projects/Test/Oauth/src/app.js:10:16)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+2024-01-22T17:21:48.728Z - [31merror[39m: uncaughtException: Cannot find module './routers/index'
+Require stack:
+- /Users/ccdev14/Projects/Test/Oauth/src/app.js
+Error: Cannot find module './routers/index'
+Require stack:
+- /Users/ccdev14/Projects/Test/Oauth/src/app.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/ccdev14/Projects/Test/Oauth/src/app.js:10:16)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+2024-01-22T17:22:13.377Z - [31merror[39m: uncaughtException: Cannot find module './routers/index'
+Require stack:
+- /Users/ccdev14/Projects/Test/Oauth/src/app.js
+Error: Cannot find module './routers/index'
+Require stack:
+- /Users/ccdev14/Projects/Test/Oauth/src/app.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/ccdev14/Projects/Test/Oauth/src/app.js:11:16)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+2024-01-22T17:22:16.206Z - [31merror[39m: uncaughtException: Cannot find module './routers/index'
+Require stack:
+- /Users/ccdev14/Projects/Test/Oauth/src/app.js
+Error: Cannot find module './routers/index'
+Require stack:
+- /Users/ccdev14/Projects/Test/Oauth/src/app.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/ccdev14/Projects/Test/Oauth/src/app.js:11:16)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+2024-01-22T17:22:18.120Z - [31merror[39m: uncaughtException: Cannot find module './routers/index'
+Require stack:
+- /Users/ccdev14/Projects/Test/Oauth/src/app.js
+Error: Cannot find module './routers/index'
+Require stack:
+- /Users/ccdev14/Projects/Test/Oauth/src/app.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/ccdev14/Projects/Test/Oauth/src/app.js:11:16)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+2024-01-22T17:22:20.467Z - [31merror[39m: uncaughtException: Cannot find module './routers/index'
+Require stack:
+- /Users/ccdev14/Projects/Test/Oauth/src/app.js
+Error: Cannot find module './routers/index'
+Require stack:
+- /Users/ccdev14/Projects/Test/Oauth/src/app.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/ccdev14/Projects/Test/Oauth/src/app.js:11:16)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+2024-01-22T17:22:22.812Z - [31merror[39m: uncaughtException: Cannot find module './routers/index'
+Require stack:
+- /Users/ccdev14/Projects/Test/Oauth/src/app.js
+Error: Cannot find module './routers/index'
+Require stack:
+- /Users/ccdev14/Projects/Test/Oauth/src/app.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/ccdev14/Projects/Test/Oauth/src/app.js:11:16)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+2024-01-22T17:22:24.942Z - [31merror[39m: uncaughtException: Cannot find module './routers/index'
+Require stack:
+- /Users/ccdev14/Projects/Test/Oauth/src/app.js
+Error: Cannot find module './routers/index'
+Require stack:
+- /Users/ccdev14/Projects/Test/Oauth/src/app.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/ccdev14/Projects/Test/Oauth/src/app.js:11:16)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+2024-01-22T17:22:26.861Z - [31merror[39m: uncaughtException: Cannot find module './routers/index'
+Require stack:
+- /Users/ccdev14/Projects/Test/Oauth/src/app.js
+Error: Cannot find module './routers/index'
+Require stack:
+- /Users/ccdev14/Projects/Test/Oauth/src/app.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/ccdev14/Projects/Test/Oauth/src/app.js:11:16)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+2024-01-22T17:22:28.778Z - [31merror[39m: uncaughtException: Cannot find module './routers/index'
+Require stack:
+- /Users/ccdev14/Projects/Test/Oauth/src/app.js
+Error: Cannot find module './routers/index'
+Require stack:
+- /Users/ccdev14/Projects/Test/Oauth/src/app.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/ccdev14/Projects/Test/Oauth/src/app.js:11:16)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+2024-01-22T17:22:30.556Z - [31merror[39m: uncaughtException: Cannot find module './routers/index'
+Require stack:
+- /Users/ccdev14/Projects/Test/Oauth/src/app.js
+Error: Cannot find module './routers/index'
+Require stack:
+- /Users/ccdev14/Projects/Test/Oauth/src/app.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/ccdev14/Projects/Test/Oauth/src/app.js:11:16)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+2024-01-22T17:22:33.227Z - [31merror[39m: uncaughtException: Cannot find module './routers/index'
+Require stack:
+- /Users/ccdev14/Projects/Test/Oauth/src/app.js
+Error: Cannot find module './routers/index'
+Require stack:
+- /Users/ccdev14/Projects/Test/Oauth/src/app.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/ccdev14/Projects/Test/Oauth/src/app.js:11:16)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+2024-01-22T17:22:37.507Z - [31merror[39m: uncaughtException: Cannot find module './routers/index'
+Require stack:
+- /Users/ccdev14/Projects/Test/Oauth/src/app.js
+Error: Cannot find module './routers/index'
+Require stack:
+- /Users/ccdev14/Projects/Test/Oauth/src/app.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/ccdev14/Projects/Test/Oauth/src/app.js:11:16)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+2024-01-22T17:22:39.788Z - [31merror[39m: uncaughtException: Cannot find module './routers/index'
+Require stack:
+- /Users/ccdev14/Projects/Test/Oauth/src/app.js
+Error: Cannot find module './routers/index'
+Require stack:
+- /Users/ccdev14/Projects/Test/Oauth/src/app.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/ccdev14/Projects/Test/Oauth/src/app.js:10:16)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+2024-01-22T17:22:41.585Z - [31merror[39m: uncaughtException: Cannot find module './routers/index'
+Require stack:
+- /Users/ccdev14/Projects/Test/Oauth/src/app.js
+Error: Cannot find module './routers/index'
+Require stack:
+- /Users/ccdev14/Projects/Test/Oauth/src/app.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/ccdev14/Projects/Test/Oauth/src/app.js:10:16)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+2024-01-22T17:23:02.061Z - [31merror[39m: uncaughtException: Cannot find module './routers/index'
+Require stack:
+- /Users/ccdev14/Projects/Test/Oauth/src/app.js
+Error: Cannot find module './routers/index'
+Require stack:
+- /Users/ccdev14/Projects/Test/Oauth/src/app.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/ccdev14/Projects/Test/Oauth/src/app.js:10:16)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+2024-01-22T17:23:10.450Z - [31merror[39m: uncaughtException: Cannot find module './routers/index'
+Require stack:
+- /Users/ccdev14/Projects/Test/Oauth/src/app.js
+Error: Cannot find module './routers/index'
+Require stack:
+- /Users/ccdev14/Projects/Test/Oauth/src/app.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/ccdev14/Projects/Test/Oauth/src/app.js:10:16)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+2024-01-22T17:23:18.117Z - [31merror[39m: uncaughtException: Cannot find module './routers/index'
+Require stack:
+- /Users/ccdev14/Projects/Test/Oauth/src/app.js
+Error: Cannot find module './routers/index'
+Require stack:
+- /Users/ccdev14/Projects/Test/Oauth/src/app.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/ccdev14/Projects/Test/Oauth/src/app.js:10:16)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+2024-01-22T17:24:41.328Z - [31merror[39m: uncaughtException: Cannot find module './routers/index'
+Require stack:
+- /Users/ccdev14/Projects/Test/Oauth/src/app.js
+Error: Cannot find module './routers/index'
+Require stack:
+- /Users/ccdev14/Projects/Test/Oauth/src/app.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/ccdev14/Projects/Test/Oauth/src/app.js:10:16)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+2024-01-22T17:24:57.571Z - [31merror[39m: uncaughtException: Cannot find module './routers/index'
+Require stack:
+- /Users/ccdev14/Projects/Test/Oauth/src/app.js
+Error: Cannot find module './routers/index'
+Require stack:
+- /Users/ccdev14/Projects/Test/Oauth/src/app.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/ccdev14/Projects/Test/Oauth/src/app.js:10:16)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+2024-01-22T17:25:02.124Z - [31merror[39m: uncaughtException: Cannot find module './routers/index'
+Require stack:
+- /Users/ccdev14/Projects/Test/Oauth/src/app.js
+Error: Cannot find module './routers/index'
+Require stack:
+- /Users/ccdev14/Projects/Test/Oauth/src/app.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/ccdev14/Projects/Test/Oauth/src/app.js:10:16)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+2024-01-22T17:25:05.468Z - [31merror[39m: uncaughtException: Cannot find module './routers/index'
+Require stack:
+- /Users/ccdev14/Projects/Test/Oauth/src/app.js
+Error: Cannot find module './routers/index'
+Require stack:
+- /Users/ccdev14/Projects/Test/Oauth/src/app.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/ccdev14/Projects/Test/Oauth/src/app.js:11:16)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+2024-01-22T17:26:03.438Z - [31merror[39m: uncaughtException: Cannot use import statement outside a module
+/Users/ccdev14/Projects/Test/Oauth/src/models/User.js:1
+import { model, Schema } from 'mongoose'
+^^^^^^
+
+SyntaxError: Cannot use import statement outside a module
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1033:15)
+    at Module._compile (node:internal/modules/cjs/loader:1069:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/ccdev14/Projects/Test/Oauth/src/controllers/AuthController.js:1:19)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+2024-01-22T17:26:13.002Z - [31merror[39m: uncaughtException: Cannot use import statement outside a module
+/Users/ccdev14/Projects/Test/Oauth/src/models/User.js:1
+import { model, Schema } from 'mongoose'
+^^^^^^
+
+SyntaxError: Cannot use import statement outside a module
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1033:15)
+    at Module._compile (node:internal/modules/cjs/loader:1069:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/ccdev14/Projects/Test/Oauth/src/controllers/AuthController.js:1:19)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+2024-01-22T17:26:18.576Z - [31merror[39m: uncaughtException: Cannot use import statement outside a module
+/Users/ccdev14/Projects/Test/Oauth/src/models/User.js:1
+import { model, Schema } from 'mongoose'
+^^^^^^
+
+SyntaxError: Cannot use import statement outside a module
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1033:15)
+    at Module._compile (node:internal/modules/cjs/loader:1069:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/ccdev14/Projects/Test/Oauth/src/controllers/AuthController.js:1:19)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+2024-01-22T17:26:32.414Z - [31merror[39m: uncaughtException: Cannot use import statement outside a module
+/Users/ccdev14/Projects/Test/Oauth/src/models/User.js:1
+import { model, Schema } from 'mongoose'
+^^^^^^
+
+SyntaxError: Cannot use import statement outside a module
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1033:15)
+    at Module._compile (node:internal/modules/cjs/loader:1069:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/ccdev14/Projects/Test/Oauth/src/controllers/AuthController.js:1:19)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+2024-01-22T17:26:36.424Z - [31merror[39m: uncaughtException: Cannot use import statement outside a module
+/Users/ccdev14/Projects/Test/Oauth/src/models/User.js:1
+import { model, Schema } from 'mongoose'
+^^^^^^
+
+SyntaxError: Cannot use import statement outside a module
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1033:15)
+    at Module._compile (node:internal/modules/cjs/loader:1069:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/ccdev14/Projects/Test/Oauth/src/controllers/AuthController.js:1:19)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+2024-01-22T17:26:41.640Z - [31merror[39m: uncaughtException: Cannot use import statement outside a module
+/Users/ccdev14/Projects/Test/Oauth/src/models/User.js:1
+import { model, Schema } from 'mongoose'
+^^^^^^
+
+SyntaxError: Cannot use import statement outside a module
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1033:15)
+    at Module._compile (node:internal/modules/cjs/loader:1069:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/ccdev14/Projects/Test/Oauth/src/controllers/AuthController.js:1:19)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+2024-01-22T17:26:44.157Z - [31merror[39m: uncaughtException: Cannot use import statement outside a module
+/Users/ccdev14/Projects/Test/Oauth/src/models/User.js:1
+import { model, Schema } from 'mongoose'
+^^^^^^
+
+SyntaxError: Cannot use import statement outside a module
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1033:15)
+    at Module._compile (node:internal/modules/cjs/loader:1069:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/ccdev14/Projects/Test/Oauth/src/controllers/AuthController.js:1:19)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+2024-01-22T17:26:48.184Z - [31merror[39m: uncaughtException: Cannot use import statement outside a module
+/Users/ccdev14/Projects/Test/Oauth/src/models/User.js:1
+import { model, Schema } from 'mongoose'
+^^^^^^
+
+SyntaxError: Cannot use import statement outside a module
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1033:15)
+    at Module._compile (node:internal/modules/cjs/loader:1069:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/ccdev14/Projects/Test/Oauth/src/controllers/AuthController.js:1:19)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+2024-01-22T17:28:05.699Z - [31merror[39m: uncaughtException: Cannot use import statement outside a module
+/Users/ccdev14/Projects/Test/Oauth/src/models/User.js:1
+import { model, Schema } from 'mongoose'
+^^^^^^
+
+SyntaxError: Cannot use import statement outside a module
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1033:15)
+    at Module._compile (node:internal/modules/cjs/loader:1069:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/ccdev14/Projects/Test/Oauth/src/controllers/AuthController.js:1:19)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+2024-01-22T17:28:11.438Z - [31merror[39m: uncaughtException: Cannot use import statement outside a module
+/Users/ccdev14/Projects/Test/Oauth/src/models/User.js:1
+import { model, Schema } from 'mongoose'
+^^^^^^
+
+SyntaxError: Cannot use import statement outside a module
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1033:15)
+    at Module._compile (node:internal/modules/cjs/loader:1069:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/ccdev14/Projects/Test/Oauth/src/controllers/AuthController.js:1:19)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+2024-01-22T17:28:14.785Z - [31merror[39m: uncaughtException: Cannot use import statement outside a module
+/Users/ccdev14/Projects/Test/Oauth/src/models/User.js:1
+import { model, Schema } from 'mongoose'
+^^^^^^
+
+SyntaxError: Cannot use import statement outside a module
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1033:15)
+    at Module._compile (node:internal/modules/cjs/loader:1069:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/ccdev14/Projects/Test/Oauth/src/controllers/AuthController.js:1:19)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+2024-01-22T17:28:17.674Z - [31merror[39m: uncaughtException: Cannot use import statement outside a module
+/Users/ccdev14/Projects/Test/Oauth/src/models/User.js:1
+import { model, Schema } from 'mongoose'
+^^^^^^
+
+SyntaxError: Cannot use import statement outside a module
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1033:15)
+    at Module._compile (node:internal/modules/cjs/loader:1069:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/ccdev14/Projects/Test/Oauth/src/controllers/AuthController.js:1:19)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+2024-01-22T17:28:28.294Z - [31merror[39m: uncaughtException: Cannot use import statement outside a module
+/Users/ccdev14/Projects/Test/Oauth/src/models/User.js:1
+import { model, Schema } from 'mongoose'
+^^^^^^
+
+SyntaxError: Cannot use import statement outside a module
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1033:15)
+    at Module._compile (node:internal/modules/cjs/loader:1069:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/ccdev14/Projects/Test/Oauth/src/controllers/AuthController.js:1:19)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+2024-01-22T17:29:13.044Z - [31merror[39m: uncaughtException: Cannot use import statement outside a module
+/Users/ccdev14/Projects/Test/Oauth/src/models/User.js:1
+import { model, Schema } from 'mongoose'
+^^^^^^
+
+SyntaxError: Cannot use import statement outside a module
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1033:15)
+    at Module._compile (node:internal/modules/cjs/loader:1069:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/ccdev14/Projects/Test/Oauth/src/controllers/AuthController.js:1:19)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+2024-01-22T17:29:36.446Z - [31merror[39m: uncaughtException: Cannot use import statement outside a module
+/Users/ccdev14/Projects/Test/Oauth/src/models/User.js:1
+import { model, Schema } from 'mongoose'
+^^^^^^
+
+SyntaxError: Cannot use import statement outside a module
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1033:15)
+    at Module._compile (node:internal/modules/cjs/loader:1069:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/ccdev14/Projects/Test/Oauth/src/controllers/AuthController.js:2:19)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+2024-01-22T17:29:39.957Z - [31merror[39m: uncaughtException: Cannot use import statement outside a module
+/Users/ccdev14/Projects/Test/Oauth/src/models/User.js:1
+import { model, Schema } from 'mongoose'
+^^^^^^
+
+SyntaxError: Cannot use import statement outside a module
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1033:15)
+    at Module._compile (node:internal/modules/cjs/loader:1069:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/ccdev14/Projects/Test/Oauth/src/controllers/AuthController.js:1:19)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+2024-01-22T17:30:06.152Z - [31merror[39m: uncaughtException: Cannot use import statement outside a module
+/Users/ccdev14/Projects/Test/Oauth/src/models/User.js:1
+import { model, Schema } from 'mongoose'
+^^^^^^
+
+SyntaxError: Cannot use import statement outside a module
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1033:15)
+    at Module._compile (node:internal/modules/cjs/loader:1069:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/ccdev14/Projects/Test/Oauth/src/controllers/AuthController.js:1:19)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+2024-01-22T17:30:22.095Z - [31merror[39m: uncaughtException: Cannot use import statement outside a module
+/Users/ccdev14/Projects/Test/Oauth/src/models/User.js:2
+import { model, Schema } from 'mongoose'
+^^^^^^
+
+SyntaxError: Cannot use import statement outside a module
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1033:15)
+    at Module._compile (node:internal/modules/cjs/loader:1069:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/ccdev14/Projects/Test/Oauth/src/controllers/AuthController.js:1:19)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+2024-01-22T17:30:40.189Z - [31merror[39m: uncaughtException: Cannot use import statement outside a module
+/Users/ccdev14/Projects/Test/Oauth/src/models/User.js:2
+import { model, Schema } from 'mongoose'
+^^^^^^
+
+SyntaxError: Cannot use import statement outside a module
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1033:15)
+    at Module._compile (node:internal/modules/cjs/loader:1069:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/ccdev14/Projects/Test/Oauth/src/controllers/AuthController.js:1:19)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+2024-01-22T17:31:51.051Z - [31merror[39m: uncaughtException: Cannot use import statement outside a module
+/Users/ccdev14/Projects/Test/Oauth/src/controllers/AuthController.js:1
+import userModel from './../models/User'
+^^^^^^
+
+SyntaxError: Cannot use import statement outside a module
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1033:15)
+    at Module._compile (node:internal/modules/cjs/loader:1069:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/ccdev14/Projects/Test/Oauth/src/routes/auth.js:4:14)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+2024-01-22T17:32:57.899Z - [31merror[39m: uncaughtException: Cannot use import statement outside a module
+/Users/ccdev14/Projects/Test/Oauth/src/controllers/AuthController.js:1
+import userModel from './../models/User'
+^^^^^^
+
+SyntaxError: Cannot use import statement outside a module
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1033:15)
+    at Module._compile (node:internal/modules/cjs/loader:1069:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/ccdev14/Projects/Test/Oauth/src/routes/auth.js:4:14)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+2024-01-22T17:33:00.241Z - [31merror[39m: uncaughtException: Cannot use import statement outside a module
+/Users/ccdev14/Projects/Test/Oauth/src/controllers/AuthController.js:1
+import userModel from './../models/User'
+^^^^^^
+
+SyntaxError: Cannot use import statement outside a module
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1033:15)
+    at Module._compile (node:internal/modules/cjs/loader:1069:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/ccdev14/Projects/Test/Oauth/src/routes/auth.js:4:14)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+2024-01-22T17:33:14.692Z - [31merror[39m: uncaughtException: Cannot use import statement outside a module
+/Users/ccdev14/Projects/Test/Oauth/src/controllers/AuthController.js:1
+import userModel from './../models/User'
+^^^^^^
+
+SyntaxError: Cannot use import statement outside a module
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1033:15)
+    at Module._compile (node:internal/modules/cjs/loader:1069:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/ccdev14/Projects/Test/Oauth/src/routes/auth.js:4:14)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+2024-01-22T17:33:24.532Z - [31merror[39m: uncaughtException: Cannot use import statement outside a module
+/Users/ccdev14/Projects/Test/Oauth/src/controllers/AuthController.js:1
+import userModel from './../models/User'
+^^^^^^
+
+SyntaxError: Cannot use import statement outside a module
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1033:15)
+    at Module._compile (node:internal/modules/cjs/loader:1069:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/ccdev14/Projects/Test/Oauth/src/routes/auth.js:4:14)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+2024-01-22T17:33:32.113Z - [31merror[39m: uncaughtException: Unexpected token 'export'
+/Users/ccdev14/Projects/Test/Oauth/src/models/User.js:24
+export const userModel = model(collectionName, userSchema)
+^^^^^^
+
+SyntaxError: Unexpected token 'export'
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1033:15)
+    at Module._compile (node:internal/modules/cjs/loader:1069:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/ccdev14/Projects/Test/Oauth/src/controllers/AuthController.js:2:19)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+2024-01-22T17:35:53.661Z - [31merror[39m: uncaughtException: Unexpected token 'export'
+/Users/ccdev14/Projects/Test/Oauth/src/models/Session.js:16
+export const sessionModel = model(collectionName, sessionSchema);
+^^^^^^
+
+SyntaxError: Unexpected token 'export'
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1033:15)
+    at Module._compile (node:internal/modules/cjs/loader:1069:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/ccdev14/Projects/Test/Oauth/src/controllers/AuthController.js:4:22)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+2024-01-22T17:36:10.848Z - [31merror[39m: uncaughtException: Unexpected token 'export'
+/Users/ccdev14/Projects/Test/Oauth/src/models/Session.js:16
+export const sessionModel = model(collectionName, sessionSchema);
+^^^^^^
+
+SyntaxError: Unexpected token 'export'
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1033:15)
+    at Module._compile (node:internal/modules/cjs/loader:1069:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/ccdev14/Projects/Test/Oauth/src/controllers/AuthController.js:4:22)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+2024-01-22T17:36:16.151Z - [31merror[39m: uncaughtException: Unexpected token 'export'
+/Users/ccdev14/Projects/Test/Oauth/src/models/Session.js:16
+export const sessionModel = model(collectionName, sessionSchema);
+^^^^^^
+
+SyntaxError: Unexpected token 'export'
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1033:15)
+    at Module._compile (node:internal/modules/cjs/loader:1069:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/ccdev14/Projects/Test/Oauth/src/controllers/AuthController.js:4:22)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+2024-01-22T17:36:22.359Z - [31merror[39m: uncaughtException: Unexpected token 'export'
+/Users/ccdev14/Projects/Test/Oauth/src/models/Session.js:16
+export const sessionModel = model(collectionName, sessionSchema);
+^^^^^^
+
+SyntaxError: Unexpected token 'export'
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1033:15)
+    at Module._compile (node:internal/modules/cjs/loader:1069:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/ccdev14/Projects/Test/Oauth/src/controllers/AuthController.js:3:22)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+2024-01-22T17:37:27.464Z - [31merror[39m: uncaughtException: requiure is not defined
+ReferenceError: requiure is not defined
+    at Object.<anonymous> (/Users/ccdev14/Projects/Test/Oauth/src/routes/auth.js:6:24)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/ccdev14/Projects/Test/Oauth/src/routes/index.js:6:20)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+2024-01-22T17:37:56.160Z - [31merror[39m: uncaughtException: requiure is not defined
+ReferenceError: requiure is not defined
+    at Object.<anonymous> (/Users/ccdev14/Projects/Test/Oauth/src/routes/auth.js:6:24)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/ccdev14/Projects/Test/Oauth/src/routes/index.js:6:20)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+2024-01-22T17:38:03.541Z - [31merror[39m: uncaughtException: requiure is not defined
+ReferenceError: requiure is not defined
+    at Object.<anonymous> (/Users/ccdev14/Projects/Test/Oauth/src/routes/auth.js:5:24)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/ccdev14/Projects/Test/Oauth/src/routes/index.js:6:20)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+2024-01-22T17:38:20.545Z - [31merror[39m: uncaughtException: requiure is not defined
+ReferenceError: requiure is not defined
+    at Object.<anonymous> (/Users/ccdev14/Projects/Test/Oauth/src/routes/auth.js:5:24)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/ccdev14/Projects/Test/Oauth/src/routes/index.js:6:20)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+2024-01-22T17:38:33.820Z - [31merror[39m: uncaughtException: Unexpected token '.'
+/Users/ccdev14/Projects/Test/Oauth/src/controllers/AuthController.js:95
+  console.log('====Cuatro=======>');
+         ^
+
+SyntaxError: Unexpected token '.'
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1033:15)
+    at Module._compile (node:internal/modules/cjs/loader:1069:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/ccdev14/Projects/Test/Oauth/src/routes/auth.js:4:14)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+2024-01-22T17:38:41.285Z - [31merror[39m: uncaughtException: requiure is not defined
+ReferenceError: requiure is not defined
+    at Object.<anonymous> (/Users/ccdev14/Projects/Test/Oauth/src/routes/auth.js:5:24)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/ccdev14/Projects/Test/Oauth/src/routes/index.js:6:20)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+2024-01-22T17:38:48.567Z - [31merror[39m: uncaughtException: requiure is not defined
+ReferenceError: requiure is not defined
+    at Object.<anonymous> (/Users/ccdev14/Projects/Test/Oauth/src/routes/auth.js:5:24)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/ccdev14/Projects/Test/Oauth/src/routes/index.js:6:20)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+2024-01-22T17:38:54.807Z - [31merror[39m: uncaughtException: requiure is not defined
+ReferenceError: requiure is not defined
+    at Object.<anonymous> (/Users/ccdev14/Projects/Test/Oauth/src/routes/auth.js:5:24)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/ccdev14/Projects/Test/Oauth/src/routes/index.js:5:20)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+2024-01-22T17:39:56.212Z - [31merror[39m: uncaughtException: requiure is not defined
+ReferenceError: requiure is not defined
+    at Object.<anonymous> (/Users/ccdev14/Projects/Test/Oauth/src/routes/auth.js:5:24)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/ccdev14/Projects/Test/Oauth/src/routes/index.js:5:20)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+2024-01-22T17:40:07.711Z - [31merror[39m: uncaughtException: requiure is not defined
+ReferenceError: requiure is not defined
+    at Object.<anonymous> (/Users/ccdev14/Projects/Test/Oauth/src/routes/auth.js:5:24)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/ccdev14/Projects/Test/Oauth/src/routes/index.js:5:20)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+2024-01-22T17:40:24.452Z - [31merror[39m: uncaughtException: requiure is not defined
+ReferenceError: requiure is not defined
+    at Object.<anonymous> (/Users/ccdev14/Projects/Test/Oauth/src/routes/auth.js:5:24)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/ccdev14/Projects/Test/Oauth/src/routes/index.js:5:20)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+2024-01-22T17:41:16.858Z - [31merror[39m: uncaughtException: requiure is not defined
+ReferenceError: requiure is not defined
+    at Object.<anonymous> (/Users/ccdev14/Projects/Test/Oauth/src/routes/auth.js:5:24)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/ccdev14/Projects/Test/Oauth/src/routes/index.js:5:20)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+2024-01-22T17:41:31.139Z - [31merror[39m: uncaughtException: Route.get() requires a callback function but got a [object Undefined]
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (/Users/ccdev14/Projects/Test/Oauth/node_modules/express/lib/router/route.js:211:15)
+    at Function.proto.<computed> [as get] (/Users/ccdev14/Projects/Test/Oauth/node_modules/express/lib/router/index.js:521:19)
+    at Object.<anonymous> (/Users/ccdev14/Projects/Test/Oauth/src/routes/user.js:13:12)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/ccdev14/Projects/Test/Oauth/src/routes/index.js:7:20)
+2024-01-22T17:41:41.503Z - [31merror[39m: uncaughtException: Route.get() requires a callback function but got a [object Undefined]
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (/Users/ccdev14/Projects/Test/Oauth/node_modules/express/lib/router/route.js:211:15)
+    at Function.proto.<computed> [as get] (/Users/ccdev14/Projects/Test/Oauth/node_modules/express/lib/router/index.js:521:19)
+    at Object.<anonymous> (/Users/ccdev14/Projects/Test/Oauth/src/routes/user.js:13:12)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/ccdev14/Projects/Test/Oauth/src/routes/index.js:7:20)
+2024-01-22T17:41:47.152Z - [31merror[39m: uncaughtException: Route.get() requires a callback function but got a [object Undefined]
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (/Users/ccdev14/Projects/Test/Oauth/node_modules/express/lib/router/route.js:211:15)
+    at Function.proto.<computed> [as get] (/Users/ccdev14/Projects/Test/Oauth/node_modules/express/lib/router/index.js:521:19)
+    at Object.<anonymous> (/Users/ccdev14/Projects/Test/Oauth/src/routes/user.js:13:12)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/ccdev14/Projects/Test/Oauth/src/routes/index.js:7:20)
+2024-01-22T17:41:50.726Z - [31merror[39m: uncaughtException: Route.get() requires a callback function but got a [object Undefined]
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (/Users/ccdev14/Projects/Test/Oauth/node_modules/express/lib/router/route.js:211:15)
+    at Function.proto.<computed> [as get] (/Users/ccdev14/Projects/Test/Oauth/node_modules/express/lib/router/index.js:521:19)
+    at Object.<anonymous> (/Users/ccdev14/Projects/Test/Oauth/src/routes/user.js:13:12)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/ccdev14/Projects/Test/Oauth/src/routes/index.js:7:20)
+2024-01-22T17:42:01.887Z - [31merror[39m: uncaughtException: Route.get() requires a callback function but got a [object Undefined]
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (/Users/ccdev14/Projects/Test/Oauth/node_modules/express/lib/router/route.js:211:15)
+    at Function.proto.<computed> [as get] (/Users/ccdev14/Projects/Test/Oauth/node_modules/express/lib/router/index.js:521:19)
+    at Object.<anonymous> (/Users/ccdev14/Projects/Test/Oauth/src/routes/user.js:13:12)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/ccdev14/Projects/Test/Oauth/src/routes/index.js:7:20)
+2024-01-22T17:42:11.568Z - [31merror[39m: uncaughtException: Route.get() requires a callback function but got a [object Undefined]
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (/Users/ccdev14/Projects/Test/Oauth/node_modules/express/lib/router/route.js:211:15)
+    at Function.proto.<computed> [as get] (/Users/ccdev14/Projects/Test/Oauth/node_modules/express/lib/router/index.js:521:19)
+    at Object.<anonymous> (/Users/ccdev14/Projects/Test/Oauth/src/routes/user.js:13:12)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/ccdev14/Projects/Test/Oauth/src/routes/index.js:7:20)
+2024-01-22T17:42:15.290Z - [31merror[39m: uncaughtException: Route.get() requires a callback function but got a [object Undefined]
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (/Users/ccdev14/Projects/Test/Oauth/node_modules/express/lib/router/route.js:211:15)
+    at Function.proto.<computed> [as get] (/Users/ccdev14/Projects/Test/Oauth/node_modules/express/lib/router/index.js:521:19)
+    at Object.<anonymous> (/Users/ccdev14/Projects/Test/Oauth/src/routes/user.js:13:12)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/ccdev14/Projects/Test/Oauth/src/routes/index.js:7:20)
+2024-01-22T17:42:18.093Z - [31merror[39m: uncaughtException: Route.get() requires a callback function but got a [object Undefined]
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (/Users/ccdev14/Projects/Test/Oauth/node_modules/express/lib/router/route.js:211:15)
+    at Function.proto.<computed> [as get] (/Users/ccdev14/Projects/Test/Oauth/node_modules/express/lib/router/index.js:521:19)
+    at Object.<anonymous> (/Users/ccdev14/Projects/Test/Oauth/src/routes/user.js:13:12)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/ccdev14/Projects/Test/Oauth/src/routes/index.js:6:20)
+2024-01-22T17:42:45.086Z - [31merror[39m: uncaughtException: Route.get() requires a callback function but got a [object Undefined]
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (/Users/ccdev14/Projects/Test/Oauth/node_modules/express/lib/router/route.js:211:15)
+    at Function.proto.<computed> [as get] (/Users/ccdev14/Projects/Test/Oauth/node_modules/express/lib/router/index.js:521:19)
+    at Object.<anonymous> (/Users/ccdev14/Projects/Test/Oauth/src/routes/user.js:14:12)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/ccdev14/Projects/Test/Oauth/src/routes/index.js:6:20)
+2024-01-22T17:42:52.246Z - [31merror[39m: uncaughtException: Route.get() requires a callback function but got a [object Undefined]
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (/Users/ccdev14/Projects/Test/Oauth/node_modules/express/lib/router/route.js:211:15)
+    at Function.proto.<computed> [as get] (/Users/ccdev14/Projects/Test/Oauth/node_modules/express/lib/router/index.js:521:19)
+    at Object.<anonymous> (/Users/ccdev14/Projects/Test/Oauth/src/routes/user.js:14:12)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/ccdev14/Projects/Test/Oauth/src/routes/index.js:6:20)
+2024-01-22T17:43:05.720Z - [31merror[39m: uncaughtException: Route.get() requires a callback function but got a [object Undefined]
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (/Users/ccdev14/Projects/Test/Oauth/node_modules/express/lib/router/route.js:211:15)
+    at Function.proto.<computed> [as get] (/Users/ccdev14/Projects/Test/Oauth/node_modules/express/lib/router/index.js:521:19)
+    at Object.<anonymous> (/Users/ccdev14/Projects/Test/Oauth/src/routes/user.js:14:12)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/ccdev14/Projects/Test/Oauth/src/routes/index.js:6:20)
+2024-01-22T17:43:08.681Z - [31merror[39m: uncaughtException: Route.get() requires a callback function but got a [object Undefined]
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (/Users/ccdev14/Projects/Test/Oauth/node_modules/express/lib/router/route.js:211:15)
+    at Function.proto.<computed> [as get] (/Users/ccdev14/Projects/Test/Oauth/node_modules/express/lib/router/index.js:521:19)
+    at Object.<anonymous> (/Users/ccdev14/Projects/Test/Oauth/src/routes/user.js:14:12)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/ccdev14/Projects/Test/Oauth/src/routes/index.js:6:20)
+2024-01-22T17:43:10.681Z - [31merror[39m: uncaughtException: Route.get() requires a callback function but got a [object Undefined]
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (/Users/ccdev14/Projects/Test/Oauth/node_modules/express/lib/router/route.js:211:15)
+    at Function.proto.<computed> [as get] (/Users/ccdev14/Projects/Test/Oauth/node_modules/express/lib/router/index.js:521:19)
+    at Object.<anonymous> (/Users/ccdev14/Projects/Test/Oauth/src/routes/user.js:14:12)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/ccdev14/Projects/Test/Oauth/src/routes/index.js:6:20)
+2024-01-22T17:43:14.572Z - [31merror[39m: uncaughtException: Route.get() requires a callback function but got a [object Undefined]
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (/Users/ccdev14/Projects/Test/Oauth/node_modules/express/lib/router/route.js:211:15)
+    at Function.proto.<computed> [as get] (/Users/ccdev14/Projects/Test/Oauth/node_modules/express/lib/router/index.js:521:19)
+    at Object.<anonymous> (/Users/ccdev14/Projects/Test/Oauth/src/routes/user.js:14:12)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/ccdev14/Projects/Test/Oauth/src/routes/index.js:6:20)
+2024-01-22T17:43:17.260Z - [31merror[39m: uncaughtException: Route.get() requires a callback function but got a [object Undefined]
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (/Users/ccdev14/Projects/Test/Oauth/node_modules/express/lib/router/route.js:211:15)
+    at Function.proto.<computed> [as get] (/Users/ccdev14/Projects/Test/Oauth/node_modules/express/lib/router/index.js:521:19)
+    at Object.<anonymous> (/Users/ccdev14/Projects/Test/Oauth/src/routes/user.js:13:12)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/ccdev14/Projects/Test/Oauth/src/routes/index.js:6:20)
+2024-01-22T17:46:50.305Z - [31merror[39m: uncaughtException: req is not defined
+ReferenceError: req is not defined
+    at Object.<anonymous> (/Users/ccdev14/Projects/Test/Oauth/src/routes/user.js:13:35)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/ccdev14/Projects/Test/Oauth/src/routes/index.js:6:20)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+2024-01-22T17:47:07.415Z - [31merror[39m: uncaughtException: Route.get() requires a callback function but got a [object Undefined]
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (/Users/ccdev14/Projects/Test/Oauth/node_modules/express/lib/router/route.js:211:15)
+    at Function.proto.<computed> [as get] (/Users/ccdev14/Projects/Test/Oauth/node_modules/express/lib/router/index.js:521:19)
+    at Object.<anonymous> (/Users/ccdev14/Projects/Test/Oauth/src/routes/user.js:13:12)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/ccdev14/Projects/Test/Oauth/src/routes/index.js:6:20)
+2024-01-22T17:47:25.321Z - [31merror[39m: uncaughtException: Route.get() requires a callback function but got a [object Undefined]
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (/Users/ccdev14/Projects/Test/Oauth/node_modules/express/lib/router/route.js:211:15)
+    at Function.proto.<computed> [as get] (/Users/ccdev14/Projects/Test/Oauth/node_modules/express/lib/router/index.js:521:19)
+    at Object.<anonymous> (/Users/ccdev14/Projects/Test/Oauth/src/routes/user.js:13:12)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/ccdev14/Projects/Test/Oauth/src/routes/index.js:6:20)
+2024-01-22T17:47:40.169Z - [31merror[39m: uncaughtException: Route.get() requires a callback function but got a [object Undefined]
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (/Users/ccdev14/Projects/Test/Oauth/node_modules/express/lib/router/route.js:211:15)
+    at Function.proto.<computed> [as get] (/Users/ccdev14/Projects/Test/Oauth/node_modules/express/lib/router/index.js:521:19)
+    at Object.<anonymous> (/Users/ccdev14/Projects/Test/Oauth/src/routes/user.js:13:12)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/ccdev14/Projects/Test/Oauth/src/routes/index.js:6:20)
+2024-01-22T17:50:59.827Z - [31merror[39m: uncaughtException: Route.get() requires a callback function but got a [object Undefined]
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (/Users/ccdev14/Projects/Test/Oauth/node_modules/express/lib/router/route.js:211:15)
+    at Function.proto.<computed> [as get] (/Users/ccdev14/Projects/Test/Oauth/node_modules/express/lib/router/index.js:521:19)
+    at Object.<anonymous> (/Users/ccdev14/Projects/Test/Oauth/src/routes/user.js:13:12)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/ccdev14/Projects/Test/Oauth/src/routes/index.js:6:20)
+2024-01-22T17:51:12.855Z - [31merror[39m: uncaughtException: Route.get() requires a callback function but got a [object Undefined]
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (/Users/ccdev14/Projects/Test/Oauth/node_modules/express/lib/router/route.js:211:15)
+    at Function.proto.<computed> [as get] (/Users/ccdev14/Projects/Test/Oauth/node_modules/express/lib/router/index.js:521:19)
+    at Object.<anonymous> (/Users/ccdev14/Projects/Test/Oauth/src/routes/user.js:13:12)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/ccdev14/Projects/Test/Oauth/src/routes/index.js:6:20)
+2024-01-22T17:52:05.817Z - [31merror[39m: uncaughtException: Route.get() requires a callback function but got a [object Undefined]
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (/Users/ccdev14/Projects/Test/Oauth/node_modules/express/lib/router/route.js:211:15)
+    at Function.proto.<computed> [as get] (/Users/ccdev14/Projects/Test/Oauth/node_modules/express/lib/router/index.js:521:19)
+    at Object.<anonymous> (/Users/ccdev14/Projects/Test/Oauth/src/routes/user.js:13:12)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/ccdev14/Projects/Test/Oauth/src/routes/index.js:6:20)
+2024-01-22T17:52:20.826Z - [31merror[39m: uncaughtException: Route.get() requires a callback function but got a [object Undefined]
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (/Users/ccdev14/Projects/Test/Oauth/node_modules/express/lib/router/route.js:211:15)
+    at Function.proto.<computed> [as get] (/Users/ccdev14/Projects/Test/Oauth/node_modules/express/lib/router/index.js:521:19)
+    at Object.<anonymous> (/Users/ccdev14/Projects/Test/Oauth/src/routes/user.js:13:12)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/ccdev14/Projects/Test/Oauth/src/routes/index.js:6:20)
+2024-01-22T21:32:05.509Z - [31merror[39m: MongoDB connection error: MongoParseError: options usecreateindex, usefindandmodify are not supported
+2024-01-22T21:33:53.876Z - [31merror[39m: MongoDB connection error: MongooseError: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+2024-01-22T21:34:37.248Z - [32minfo[39m: Connected to MongoDB
+2024-01-22T21:56:18.259Z - [32minfo[39m: Connected to MongoDB
+2024-01-22T21:58:10.264Z - [32minfo[39m: Connected to MongoDB
+2024-01-22T21:59:01.816Z - [32minfo[39m: Connected to MongoDB
+2024-01-22T22:00:30.635Z - [32minfo[39m: Connected to MongoDB
+2024-01-22T22:01:07.039Z - [32minfo[39m: Connected to MongoDB
+2024-01-22T22:01:46.880Z - [32minfo[39m: Connected to MongoDB
+2024-01-22T22:02:06.215Z - [32minfo[39m: Connected to MongoDB
+2024-01-22T22:02:21.535Z - [32minfo[39m: Connected to MongoDB
+2024-01-22T22:02:30.103Z - [32minfo[39m: Connected to MongoDB
+2024-01-22T22:02:37.049Z - [32minfo[39m: Connected to MongoDB
+2024-01-22T22:02:38.449Z - [32minfo[39m: Connected to MongoDB
+2024-01-22T22:03:21.954Z - [32minfo[39m: Connected to MongoDB
+2024-01-22T22:03:34.072Z - [32minfo[39m: Connected to MongoDB
+2024-01-22T22:05:30.612Z - [31merror[39m: uncaughtException: Cannot set headers after they are sent to the client
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at new NodeError (node:internal/errors:372:5)
+    at ServerResponse.setHeader (node:_http_outgoing:576:11)
+    at ServerResponse.header (/Users/ccdev14/Projects/Test/Oauth/node_modules/express/lib/response.js:794:10)
+    at ServerResponse.send (/Users/ccdev14/Projects/Test/Oauth/node_modules/express/lib/response.js:174:12)
+    at ServerResponse.json (/Users/ccdev14/Projects/Test/Oauth/node_modules/express/lib/response.js:278:15)
+    at login (/Users/ccdev14/Projects/Test/Oauth/src/controllers/AuthController.js:70:23)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+2024-01-22T22:06:42.634Z - [32minfo[39m: Connected to MongoDB
+2024-01-22T22:06:44.293Z - [31merror[39m: uncaughtException: Cannot set headers after they are sent to the client
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at new NodeError (node:internal/errors:372:5)
+    at ServerResponse.setHeader (node:_http_outgoing:576:11)
+    at ServerResponse.header (/Users/ccdev14/Projects/Test/Oauth/node_modules/express/lib/response.js:794:10)
+    at ServerResponse.send (/Users/ccdev14/Projects/Test/Oauth/node_modules/express/lib/response.js:174:12)
+    at ServerResponse.json (/Users/ccdev14/Projects/Test/Oauth/node_modules/express/lib/response.js:278:15)
+    at login (/Users/ccdev14/Projects/Test/Oauth/src/controllers/AuthController.js:70:23)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+2024-01-22T22:19:36.395Z - [32minfo[39m: Connected to MongoDB
+2024-01-22T22:25:40.046Z - [32minfo[39m: Connected to MongoDB
+2024-01-22T22:25:43.039Z - [31merror[39m: uncaughtException: Cannot set headers after they are sent to the client
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at new NodeError (node:internal/errors:372:5)
+    at ServerResponse.setHeader (node:_http_outgoing:576:11)
+    at ServerResponse.header (/Users/ccdev14/Projects/Test/Oauth/node_modules/express/lib/response.js:794:10)
+    at ServerResponse.send (/Users/ccdev14/Projects/Test/Oauth/node_modules/express/lib/response.js:174:12)
+    at ServerResponse.json (/Users/ccdev14/Projects/Test/Oauth/node_modules/express/lib/response.js:278:15)
+    at login (/Users/ccdev14/Projects/Test/Oauth/src/controllers/AuthController.js:81:23)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+2024-01-22T22:51:17.157Z - [32minfo[39m: Connected to MongoDB
+2024-01-22T22:52:28.576Z - [31merror[39m: uncaughtException: Cannot set headers after they are sent to the client
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at new NodeError (node:internal/errors:372:5)
+    at ServerResponse.setHeader (node:_http_outgoing:576:11)
+    at ServerResponse.header (/Users/ccdev14/Projects/Test/Oauth/node_modules/express/lib/response.js:794:10)
+    at ServerResponse.send (/Users/ccdev14/Projects/Test/Oauth/node_modules/express/lib/response.js:174:12)
+    at ServerResponse.json (/Users/ccdev14/Projects/Test/Oauth/node_modules/express/lib/response.js:278:15)
+    at login (/Users/ccdev14/Projects/Test/Oauth/src/controllers/AuthController.js:81:23)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+2024-01-22T22:55:29.101Z - [32minfo[39m: Connected to MongoDB
+2024-01-22T22:55:31.302Z - [31merror[39m: uncaughtException: Cannot set headers after they are sent to the client
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at new NodeError (node:internal/errors:372:5)
+    at ServerResponse.setHeader (node:_http_outgoing:576:11)
+    at ServerResponse.header (/Users/ccdev14/Projects/Test/Oauth/node_modules/express/lib/response.js:794:10)
+    at ServerResponse.send (/Users/ccdev14/Projects/Test/Oauth/node_modules/express/lib/response.js:174:12)
+    at ServerResponse.json (/Users/ccdev14/Projects/Test/Oauth/node_modules/express/lib/response.js:278:15)
+    at login (/Users/ccdev14/Projects/Test/Oauth/src/controllers/AuthController.js:81:23)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+2024-01-22T22:56:47.213Z - [32minfo[39m: Connected to MongoDB
+2024-01-22T22:56:49.705Z - [31merror[39m: uncaughtException: Cannot set headers after they are sent to the client
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at new NodeError (node:internal/errors:372:5)
+    at ServerResponse.setHeader (node:_http_outgoing:576:11)
+    at ServerResponse.header (/Users/ccdev14/Projects/Test/Oauth/node_modules/express/lib/response.js:794:10)
+    at ServerResponse.send (/Users/ccdev14/Projects/Test/Oauth/node_modules/express/lib/response.js:174:12)
+    at ServerResponse.json (/Users/ccdev14/Projects/Test/Oauth/node_modules/express/lib/response.js:278:15)
+    at login (/Users/ccdev14/Projects/Test/Oauth/src/controllers/AuthController.js:81:23)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+2024-01-22T22:58:02.898Z - [32minfo[39m: Connected to MongoDB
+2024-01-22T22:58:06.244Z - [31merror[39m: uncaughtException: Cannot set headers after they are sent to the client
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at new NodeError (node:internal/errors:372:5)
+    at ServerResponse.setHeader (node:_http_outgoing:576:11)
+    at ServerResponse.header (/Users/ccdev14/Projects/Test/Oauth/node_modules/express/lib/response.js:794:10)
+    at ServerResponse.send (/Users/ccdev14/Projects/Test/Oauth/node_modules/express/lib/response.js:174:12)
+    at ServerResponse.json (/Users/ccdev14/Projects/Test/Oauth/node_modules/express/lib/response.js:278:15)
+    at login (/Users/ccdev14/Projects/Test/Oauth/src/controllers/AuthController.js:81:23)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+2024-01-22T22:58:31.157Z - [32minfo[39m: Connected to MongoDB
+2024-01-22T22:58:33.696Z - [31merror[39m: uncaughtException: Cannot set headers after they are sent to the client
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at new NodeError (node:internal/errors:372:5)
+    at ServerResponse.setHeader (node:_http_outgoing:576:11)
+    at ServerResponse.header (/Users/ccdev14/Projects/Test/Oauth/node_modules/express/lib/response.js:794:10)
+    at ServerResponse.send (/Users/ccdev14/Projects/Test/Oauth/node_modules/express/lib/response.js:174:12)
+    at ServerResponse.json (/Users/ccdev14/Projects/Test/Oauth/node_modules/express/lib/response.js:278:15)
+    at login (/Users/ccdev14/Projects/Test/Oauth/src/controllers/AuthController.js:81:23)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+2024-01-22T22:59:56.257Z - [32minfo[39m: Connected to MongoDB
+2024-01-22T22:59:59.579Z - [32minfo[39m: Connected to MongoDB
+2024-01-22T23:00:05.808Z - [31merror[39m: uncaughtException: Cannot set headers after they are sent to the client
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at new NodeError (node:internal/errors:372:5)
+    at ServerResponse.setHeader (node:_http_outgoing:576:11)
+    at ServerResponse.header (/Users/ccdev14/Projects/Test/Oauth/node_modules/express/lib/response.js:794:10)
+    at ServerResponse.send (/Users/ccdev14/Projects/Test/Oauth/node_modules/express/lib/response.js:174:12)
+    at ServerResponse.json (/Users/ccdev14/Projects/Test/Oauth/node_modules/express/lib/response.js:278:15)
+    at login (/Users/ccdev14/Projects/Test/Oauth/src/controllers/AuthController.js:81:23)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+2024-01-22T23:00:31.893Z - [32minfo[39m: Connected to MongoDB
+2024-01-22T23:00:35.133Z - [31merror[39m: uncaughtException: Cannot set headers after they are sent to the client
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at new NodeError (node:internal/errors:372:5)
+    at ServerResponse.setHeader (node:_http_outgoing:576:11)
+    at ServerResponse.header (/Users/ccdev14/Projects/Test/Oauth/node_modules/express/lib/response.js:794:10)
+    at ServerResponse.send (/Users/ccdev14/Projects/Test/Oauth/node_modules/express/lib/response.js:174:12)
+    at ServerResponse.json (/Users/ccdev14/Projects/Test/Oauth/node_modules/express/lib/response.js:278:15)
+    at login (/Users/ccdev14/Projects/Test/Oauth/src/controllers/AuthController.js:81:23)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+2024-01-22T23:01:32.429Z - [32minfo[39m: Connected to MongoDB
+2024-01-22T23:01:35.463Z - [31merror[39m: uncaughtException: Cannot set headers after they are sent to the client
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at new NodeError (node:internal/errors:372:5)
+    at ServerResponse.setHeader (node:_http_outgoing:576:11)
+    at ServerResponse.header (/Users/ccdev14/Projects/Test/Oauth/node_modules/express/lib/response.js:794:10)
+    at ServerResponse.send (/Users/ccdev14/Projects/Test/Oauth/node_modules/express/lib/response.js:174:12)
+    at ServerResponse.json (/Users/ccdev14/Projects/Test/Oauth/node_modules/express/lib/response.js:278:15)
+    at login (/Users/ccdev14/Projects/Test/Oauth/src/controllers/AuthController.js:81:23)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+2024-01-22T23:01:49.070Z - [32minfo[39m: Connected to MongoDB
+2024-01-22T23:01:51.394Z - [31merror[39m: uncaughtException: Cannot set headers after they are sent to the client
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at new NodeError (node:internal/errors:372:5)
+    at ServerResponse.setHeader (node:_http_outgoing:576:11)
+    at ServerResponse.header (/Users/ccdev14/Projects/Test/Oauth/node_modules/express/lib/response.js:794:10)
+    at ServerResponse.send (/Users/ccdev14/Projects/Test/Oauth/node_modules/express/lib/response.js:174:12)
+    at ServerResponse.json (/Users/ccdev14/Projects/Test/Oauth/node_modules/express/lib/response.js:278:15)
+    at login (/Users/ccdev14/Projects/Test/Oauth/src/controllers/AuthController.js:81:23)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+2024-01-22T23:02:17.146Z - [32minfo[39m: Connected to MongoDB
+2024-01-22T23:02:21.688Z - [31merror[39m: uncaughtException: Cannot set headers after they are sent to the client
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at new NodeError (node:internal/errors:372:5)
+    at ServerResponse.setHeader (node:_http_outgoing:576:11)
+    at ServerResponse.header (/Users/ccdev14/Projects/Test/Oauth/node_modules/express/lib/response.js:794:10)
+    at ServerResponse.send (/Users/ccdev14/Projects/Test/Oauth/node_modules/express/lib/response.js:174:12)
+    at ServerResponse.json (/Users/ccdev14/Projects/Test/Oauth/node_modules/express/lib/response.js:278:15)
+    at login (/Users/ccdev14/Projects/Test/Oauth/src/controllers/AuthController.js:82:23)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+2024-01-22T23:02:36.290Z - [32minfo[39m: Connected to MongoDB
+2024-01-22T23:02:38.041Z - [31merror[39m: uncaughtException: Cannot set headers after they are sent to the client
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at new NodeError (node:internal/errors:372:5)
+    at ServerResponse.setHeader (node:_http_outgoing:576:11)
+    at ServerResponse.header (/Users/ccdev14/Projects/Test/Oauth/node_modules/express/lib/response.js:794:10)
+    at ServerResponse.send (/Users/ccdev14/Projects/Test/Oauth/node_modules/express/lib/response.js:174:12)
+    at ServerResponse.json (/Users/ccdev14/Projects/Test/Oauth/node_modules/express/lib/response.js:278:15)
+    at login (/Users/ccdev14/Projects/Test/Oauth/src/controllers/AuthController.js:82:23)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+2024-01-22T23:03:01.269Z - [32minfo[39m: Connected to MongoDB
+2024-01-22T23:04:31.002Z - [32minfo[39m: Connected to MongoDB
+2024-01-22T23:04:34.197Z - [31merror[39m: uncaughtException: Connection.prototype.close() no longer accepts a callback
+MongooseError: Connection.prototype.close() no longer accepts a callback
+    at NativeConnection.close (/Users/ccdev14/Projects/Test/Oauth/node_modules/mongoose/lib/connection.js:869:11)
+    at process.<anonymous> (/Users/ccdev14/Projects/Test/Oauth/src/app.js:62:22)
+    at process.emit (node:events:527:28)
